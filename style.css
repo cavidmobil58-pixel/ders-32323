@@ -1,12 +1,2 @@
-li:first-child{
-    color: teal
-}
-li:nth-child{
-    color:red
-}
-li:last-child{
-    color:green
-}
-li:hover{
-    color:purple
+
 }
