@@ -1,2 +1,15 @@
-
+body {
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+th, td {
+    border-bottom: 1px solid #b0a160;
 }
